@@ -1,4 +1,4 @@
-#*Hi every body, I am Gilbert Ardila*  
+#*Hi every body, I am Gilbert Ardila*#  
 
 
 I am a jr web developer and enjoy developing new projects!!  
@@ -34,7 +34,7 @@ as a second part we have the frontend: it was made in html/css and javascript on
 In my repository I have many web architecture projects, like Alura-clon, Restaurant, Batatabit,Google-clon, blog
 this projects are made only in html and css to create the main structure of a page
 
-##*Some technologies I use:*
+##*Some technologies I use:*##
 -Html5
 -Css3
 -JavaScript
