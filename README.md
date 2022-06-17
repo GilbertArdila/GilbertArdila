@@ -28,6 +28,15 @@ first part is backend: made in Java and SpringBoot is connected to a SQL data ba
 as a dependencys in this project we use  Loombok, spring-data jpa, thymeleaf, spring web, spring dev tools, MySQL conector.
 as a second part we have the frontend: it was made in html/css and javascript only. also we consume the Jquery and uuid libraries.
 
+*-Alura-Geek*
+
+
+this is a virtual store, but focuses in the administrator user; customer can see the products, filter them by name, see the diferentent categories and echa product by it self, but there is not a purchase method implemented; administrator can handle a CRUD in all the produts, can change pictures too.
+
+
+Created on javascript/html/css and using json-server as a data base
+
+
 *-web architecture.*
 
 
