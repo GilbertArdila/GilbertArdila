@@ -19,6 +19,8 @@ My projects:
 it is a web site were you can see the movies billboard and also create a favourites movies list
 it was made in html/css/javascript consuming a public API called themoviedb
 this is a single page application SPA, we use location.hash to create the ilussion ofchanging pages, we also use localStorage to save the favourites movies list
+-[whatch the site](https://gilbertardila.github.io/movieAPI/#home)
+
 
 *-Proyecto SENA*
 
@@ -27,6 +29,7 @@ this is a proyect for the SENA academy in Colombia, this is a decoupled project(
 first part is backend: made in Java and SpringBoot is connected to a SQL data base, here we use the abstraction concept, we have layers to save the data integrity.
 as a dependencys in this project we use  Loombok, spring-data jpa, thymeleaf, spring web, spring dev tools, MySQL conector.
 as a second part we have the frontend: it was made in html/css and javascript only. also we consume the Jquery and uuid libraries.
+-[whatch the video](https://youtu.be/TIAlkqJOHbk)
 
 *-Alura-Geek*
 
@@ -35,12 +38,13 @@ this is a virtual store, but focuses in the administrator user; customer can see
 
 
 Created on javascript/html/css and using json-server as a data base
+-[whatch the video](https://youtu.be/fEAob8wyxH0)
 
 
 *-web architecture.*
 
 
-In my repository I have many web architecture projects, like Alura-clon, Restaurant, Batatabit,Google-clon, blog
+In my repository I have many web architecture projects, like [Alura-clon](https://alura-clon.vercel.app/), [Restaurant](http://gridlayoutrestauratpage.vercel.app/), [Batatabit](http://batatabit-beta.vercel.app/),[Google-clon](https://gilbertardila.github.io/google_clone/), [blog](http://blog-brown-three.vercel.app/)
 this projects are made only in html and css to create the main structure of a page
 
 *Some technologies I use:*
@@ -51,8 +55,7 @@ this projects are made only in html and css to create the main structure of a pa
 -Java  
 -SpringBoot  
 -MySQL  
--MongoDB  
 -Git  
 -GitHub  
 -Trello/Jira  
--Figma
+
