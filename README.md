@@ -10,10 +10,10 @@ I live in Bogotá-Colombia, I have worked in personal projects as a Knowledge se
 Right now I have knowledge in Html/Css and JavaScript in front-end, but also in Java/Springboot in back-end and MySql , but I am also learning new things every week, right now I am  learning React, offcourse, in the web development school in Platzi.
 
 
-*My projects:*
+#**My projects:**
 
 
-** All my proyects are made under the concept of MVC (model,view,controller) **
+**All my proyects are made under the concept of MVC (model,view,controller)**
 
 
 *-Movies+*
@@ -22,6 +22,8 @@ Right now I have knowledge in Html/Css and JavaScript in front-end, but also in 
 it is a web site were you can see the movies billboard and also create a favourites movies list
 it was made in html/css/javascript consuming a public API called themoviedb
 this is a single page application SPA, we use location.hash to create the ilussion of changing pages, we also use localStorage to save the favourites movies list
+
+
 -[whatch the site](https://gilbertardila.github.io/movieAPI/#home)
 
 
@@ -29,7 +31,9 @@ this is a single page application SPA, we use location.hash to create the ilussi
 
 this web site allows you to create a registration as a customer and once you are register you can make a checkin choosing initial and final day, room kind, payment way and kids and adults guests quantity. the reservation price depends on this variables. According to dates the sistem will calculate hight or low season price, also every room kind have a diferent cost, kids guest have 40% off than adults, and you can choose between cash, debt card or credit card for payment way.
 
+
 this is an SPA made in html,css and vanilla javascript, with no frameworks nor libraries, back end is made in java-springboot and mysql data base
+
 
 -[whatch the video](https://youtu.be/ngIZJMJpm40)
 
@@ -40,8 +44,12 @@ this is an SPA made in html,css and vanilla javascript, with no frameworks nor l
 this is a proyect for the SENA academy in Colombia, this is a decoupled project(frontend/backend)
 first part is backend: made in Java and SpringBoot is connected to a SQL data base, here we use the abstraction concept, we have layers to save the data integrity.
 as a dependencys in this project we use  Loombok, spring-data jpa, thymeleaf, spring web, spring dev tools, MySQL conector.
+
+
 as a second part we have the frontend: it was made in html/css and javascript only. also we consume the Jquery and uuid libraries.
 -[whatch the video](https://youtu.be/TIAlkqJOHbk)
+
+
 
 *-Alura-Geek*
 
@@ -50,6 +58,8 @@ this is a virtual store, but focuses in the administrator user; customer can see
 
 
 Created on javascript/html/css and using json-server as a data base
+
+
 -[whatch the video](https://youtu.be/fEAob8wyxH0)
 
 
@@ -58,6 +68,7 @@ Created on javascript/html/css and using json-server as a data base
 
 In my repository I have many web architecture projects, like [Alura-clon](https://alura-clon.vercel.app/), [Restaurant](http://gridlayoutrestauratpage.vercel.app/), [Batatabit](http://batatabit-beta.vercel.app/),[Google-clon](https://gilbertardila.github.io/google_clone/), [blog](http://blog-brown-three.vercel.app/)
 this projects are made only in html and css to create the main structure of a page
+
 
 *Some technologies I use:*
 
