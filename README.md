@@ -1,13 +1,13 @@
 *Hi every body, I am Gilbert Ardila*
 
 
-I am a jr web developer and enjoy developing new projects!!  
+I am a jr web developer and enjoy create new projects!!  
 
 
-I live in Bogotá-Colombia, I have worked in personal projects as a Knowledge selft growing and I invite you to peck my GitHub account  
+I live in Bogotá-Colombia, I have worked in personal projects as a Knowledge selft growing and I invite you to glace at my GitHub account  
 
 
-Right now I am working in Html/Css and JavaScript in front-end, but also in Java/Springboot in back-end and data bases like MySql and MongoDB, but I am also learning new things every week, right now I am in a React course and, offcourse, the web development school in Platzi.
+Right now I have knowledge in Html/Css and JavaScript in front-end, but also in Java/Springboot in back-end and MySql , but I am also learning new things every week, right now I am in learning React, offcourse, in the web development school in Platzi.
 
 
 My projects:
@@ -20,6 +20,15 @@ it is a web site were you can see the movies billboard and also create a favouri
 it was made in html/css/javascript consuming a public API called themoviedb
 this is a single page application SPA, we use location.hash to create the ilussion ofchanging pages, we also use localStorage to save the favourites movies list
 -[whatch the site](https://gilbertardila.github.io/movieAPI/#home)
+
+
+*-Alura Hotel*
+
+this web site allows you to create a regisraion as a customer ad once you are register you can make a checkin choosing initial and final day, room kind, payment way and kids and adults guests quantity. the reservation price depends on this variables. According to dates the sistem will calculate hight or low season price, also every room kind have a diferent cost, kids guest have 40% off than adults, and you can choose between cash, debt card or credit card for payment way.
+
+this is a single page application made in html,css and vanilla javascript, with no frameworks nor libraries, backed is made in java-springboot and mysql data base
+
+-[whatch the video](https://youtu.be/ngIZJMJpm40)
 
 
 *-Proyecto SENA*
