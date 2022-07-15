@@ -26,6 +26,15 @@ this is a single page application SPA, we use location.hash to create the ilussi
 
 -[whatch the site](https://gilbertardila.github.io/movieAPI/#home)
 
+*-M3U2TrelloApp-GilbertArdila (Trello clon)*
+
+This application is a Trello board clone where we can create taskes, move it from board to board (to-do, doing, done), it will show the creation date and finishing date, Title, User and Estimated time and off corsse we can delete it.
+
+
+We use a json-server as a fakeAPI, consume moment, axios and sortablejs API´s
+
+-[whatch the video](https://youtu.be/fJKKSUHx9CM)
+
 
 *-Alura Hotel*
 
