@@ -13,10 +13,10 @@ Right now I have knowledge in Html/Css and JavaScript in front-end, but also in 
 #**My projects:**
 
 
-**All my proyects are made under the concept of MVC (model,view,controller)**
+**Proyects that have back and front are made under the concept of MVC (model,view,controller)**
 
 
-*-Movies+*
+**Movies+
 
 
 it is a web site were you can see the movies billboard and also create a favourites movies list
@@ -26,7 +26,7 @@ this is a single page application SPA, we use location.hash to create the ilussi
 
 -[whatch the site](https://gilbertardila.github.io/movieAPI/#home)
 
-*-M3U2TrelloApp-GilbertArdila (Trello clon)*
+**M3U2TrelloApp-GilbertArdila (Trello clon)
 
 This application is a Trello board clone where we can create taskes, move it from board to board (to-do, doing, done), it will show the creation date and finishing date, Title, User and Estimated time and off corsse we can delete it.
 
@@ -36,7 +36,7 @@ We use a json-server as a fakeAPI, consume moment, axios and sortablejs API´s
 -[whatch the video](https://youtu.be/fJKKSUHx9CM)
 
 
-*-Alura Hotel*
+**Alura Hotel
 
 this web site allows you to create a registration as a customer and once you are register you can make a checkin choosing initial and final day, room kind, payment way and kids and adults guests quantity. the reservation price depends on this variables. According to dates the sistem will calculate hight or low season price, also every room kind have a diferent cost, kids guest have 40% off than adults, and you can choose between cash, debt card or credit card for payment way.
 
@@ -47,7 +47,7 @@ this is an SPA made in html,css and vanilla javascript, with no frameworks nor l
 -[whatch the video](https://youtu.be/ngIZJMJpm40)
 
 
-*-Proyecto SENA*
+**Proyecto SENA
 
 
 this is a proyect for the SENA academy in Colombia, this is a decoupled project(frontend/backend)
@@ -60,7 +60,7 @@ as a second part we have the frontend: it was made in html/css and javascript on
 
 
 
-*-Alura-Geek*
+**Alura-Geek
 
 
 this is a virtual store, but focuses in the administrator user; customer can see the products, filter them by name, see the diferentent categories and echa product by it self, but there is not a purchase method implemented; administrator can handle a CRUD in all the produts, can change pictures too.
@@ -72,7 +72,7 @@ Created on javascript/html/css and using json-server as a data base
 -[whatch the video](https://youtu.be/fEAob8wyxH0)
 
 
-*-web components.*
+**web components.
 
 
 we use custon elements, template, shadow DOM and ES6 modules API's to create a web component totally reusable and proffesional
@@ -81,14 +81,14 @@ we use custon elements, template, shadow DOM and ES6 modules API's to create a w
 -[see the site](https://gilbertardila.github.io/web-component/src/index.html)
 
 
-*-web architecture.*
+**web architecture.
 
 
 In my repository I have many web architecture projects, like [Alura-clon](https://alura-clon.vercel.app/), [Restaurant](http://gridlayoutrestauratpage.vercel.app/), [Batatabit](http://batatabit-beta.vercel.app/),[Google-clon](https://gilbertardila.github.io/google_clone/), [blog](http://blog-brown-three.vercel.app/)
 this projects are made only in html and css to create the main structure of a page
 
 
-*Some technologies I use:*
+*****Some technologies I use:
 
 -Html5  
 -Css3  
