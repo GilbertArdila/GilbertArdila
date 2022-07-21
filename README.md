@@ -72,6 +72,13 @@ Created on javascript/html/css and using json-server as a data base
 -[whatch the video](https://youtu.be/fEAob8wyxH0)
 
 
+*-web components.*
+
+*-web-component*
+
+we use HTMLElements API to create a web component totally reusable anf proffesional
+
+
 *-web architecture.*
 
 
