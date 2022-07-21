@@ -75,7 +75,7 @@ Created on javascript/html/css and using json-server as a data base
 *-web components.*
 
 
-we use HTMLElements API to create a web component totally reusable anf proffesional
+we use custon elements, template, shadow DOM and ES6 modules API's to create a web component totally reusable and proffesional
 
 
 -[see the site](https://gilbertardila.github.io/web-component/src/index.html)
