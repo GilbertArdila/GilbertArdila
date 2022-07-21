@@ -56,6 +56,8 @@ as a dependencys in this project we use  Loombok, spring-data jpa, thymeleaf, sp
 
 
 as a second part we have the frontend: it was made in html/css and javascript only. also we consume the Jquery and uuid libraries.
+
+
 -[whatch the video](https://youtu.be/TIAlkqJOHbk)
 
 
