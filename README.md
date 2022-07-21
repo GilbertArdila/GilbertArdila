@@ -74,9 +74,11 @@ Created on javascript/html/css and using json-server as a data base
 
 *-web components.*
 
-*-web-component*
 
 we use HTMLElements API to create a web component totally reusable anf proffesional
+
+
+-[see the site](https://gilbertardila.github.io/web-component/src/index.html)
 
 
 *-web architecture.*
