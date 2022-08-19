@@ -26,6 +26,13 @@ this is a single page application SPA, we use location.hash to create the ilussi
 
 -[whatch the site](https://gilbertardila.github.io/movieAPI/#home)
 
+**TODO´s**
+
+
+this is an app where you can manage your pending taskes, create new taskes, mark it up as a completed task or delete it, you also can seach any specifict task, you can know the creaton and finalization date
+
+-[whatch the site](https://storied-conkies-87284e.netlify.app/)
+
 **M3U2TrelloApp-GilbertArdila (Trello clon)**
 
 This application is a Trello board clone where we can create taskes, move it from board to board (to-do, doing, done), it will show the creation date and finishing date, Title, User and Estimated time and off corsse we can delete it.
