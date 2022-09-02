@@ -42,6 +42,15 @@ We use a json-server as a fakeAPI, consume moment, axios and sortablejs API´s
 
 -[whatch the video](https://youtu.be/fJKKSUHx9CM)
 
+**User card**
+
+this is a card developed with React and tailwindcss where we consume randonuser's API 
+
+
+we are deploying using Netlify
+
+-[whatch the site](https://superb-swan-0d810c.netlify.app)
+
 
 **Alura Hotel**
 
