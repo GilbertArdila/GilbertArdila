@@ -86,7 +86,7 @@ this is a virtual store, but focuses in the administrator user; customer can see
 
 Created on javascript/html/css and using json-server as a data base
 
--[see the site](https://benevolent-halva-cc2bb2.netlify.app)
+-[whatch the site](https://benevolent-halva-cc2bb2.netlify.app)
 
 
 -[whatch the video](https://youtu.be/fEAob8wyxH0)
