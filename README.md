@@ -7,7 +7,7 @@ I am a jr web developer and enjoy create new projects!!
 I live in Bogotá-Colombia, I have worked in personal projects as a Knowledge selft growing and I invite you to glance at my GitHub account  
 
 
-Right now I have knowledge in Html/Css and JavaScript in front-end, but also in Java/Springboot in back-end and MySql , but I am also learning new things every week, right now I am  learning React, offcourse, in the web development school in Platzi.
+I have knowledge in Html/Css/JavaScript/Tailwind CSS/Typescript and React in front-end, but also in Nodejs/Express/SQL in back-end , but I am also learning new things every time.
 
 
 #**My projects:**
