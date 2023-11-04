@@ -76,14 +76,6 @@ Created on javascript/html/css and using json-server as a data base
 -[whatch the video](https://youtu.be/fEAob8wyxH0)
 
 
-**web components.**
-
-
-we use custon elements, template, shadow DOM and ES6 modules API's to create a web component totally reusable and proffesional
-
-
--[see the site](https://gilbertardila.github.io/web-component/src/index.html)
-
 
 **web architecture.**
 
