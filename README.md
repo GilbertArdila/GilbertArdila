@@ -26,12 +26,6 @@ this is a single page application SPA, we use location.hash to create the ilussi
 
 -[whatch the site](https://gilbertardila.github.io/movieAPI/#home)
 
-**TODO´s**
-
-
-this is an app where you can manage your pending taskes, create new taskes, mark it up as a completed task or delete it, you also can seach any specifict task, you can know the creaton and finalization date
-
--[whatch the site](https://storied-conkies-87284e.netlify.app/)
 
 **M3U2TrelloApp-GilbertArdila (Trello clon)**
 
@@ -42,14 +36,6 @@ We use a json-server as a fakeAPI, consume moment, axios and sortablejs API´s
 
 -[whatch the video](https://youtu.be/fJKKSUHx9CM)
 
-**User card**
-
-this is a card developed with React and tailwindcss where we consume randonuser's API 
-
-
-we are deploying using Netlify
-
--[whatch the site](https://superb-swan-0d810c.netlify.app)
 
 
 **Alura Hotel**
@@ -86,8 +72,6 @@ this is a virtual store, but focuses in the administrator user; customer can see
 
 Created on javascript/html/css and using json-server as a data base
 
--[whatch the site](https://geek-starwars.netlify.app)
-
 
 -[whatch the video](https://youtu.be/fEAob8wyxH0)
 
@@ -104,7 +88,7 @@ we use custon elements, template, shadow DOM and ES6 modules API's to create a w
 **web architecture.**
 
 
-In my repository I have many web architecture projects, like [Alura-clon](https://alura-clon.vercel.app/), [Restaurant](http://gridlayoutrestauratpage.vercel.app/), [Batatabit](http://batatabit-beta.vercel.app/),[Google-clon](https://gilbertardila.github.io/google_clone/), [blog](http://blog-brown-three.vercel.app/)
+In my repository I have many web architecture projects, like [Alura-clon](https://alura-clon.vercel.app/), [Batatabit](http://batatabit-beta.vercel.app/),[Google-clon](https://gilbertardila.github.io/google_clone/), [blog](http://blog-brown-three.vercel.app/)
 this projects are made only in html and css to create the main structure of a page
 
 
