@@ -7,7 +7,7 @@ I am a fullstack developer and I enjoy what I do!!
 I live in Bogotá-Colombia, I have worked in personal projects as a Knowledge selft growing and I invite you to glance at my GitHub account  
 
 
-I have knowledge in Html/Css/JavaScript/Tailwind CSS/Typescript/React in front-end, and also in Nodejs/Express/Java/SpringBoot and SQL in back-end , but I am learning new thingsas well.
+I have knowledge in Html/Css/JavaScript/Tailwind CSS/React in front-end, and also in Nodejs/Express/SQL in back-end , but I am learning new things as well.
 
 
 #**Some of My projects:**
