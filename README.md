@@ -26,6 +26,14 @@ this is a single page application SPA, we use location.hash to create the ilussi
 
 -[whatch the site](https://gilbertardila.github.io/movieAPI/#home)
 
+**Movies+ V2.0**
+
+
+Developed in Next.Js now you can use the new version of thi app
+
+
+-[whatch the site](http://movies-v2-0.vercel.app/)
+
 
 **M3U2TrelloApp-GilbertArdila (Trello clon)**
 
