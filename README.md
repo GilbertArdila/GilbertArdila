@@ -1,13 +1,13 @@
-**Hi every body, I am Gilbert Ardila**
+**Hi there, my name is Gilbert Ardila**
 
 
-I am a fullstack developer and I enjoy what I do!!  
+I am a Javascript fullstack developer and I lo e what I do!!  
 
 
-I live in Bogotá-Colombia, I have worked in personal projects as a Knowledge selft growing and I invite you to glance at my GitHub account  
+I live in Bogotá-Colombia, I have been working  in many personal proyects for professional growth and I invite you to glance at my GitHub account  
 
 
-I have knowledge in Html/Css/JavaScript/Tailwind CSS/React in front-end, and also in Nodejs/Express/SQL in back-end , but I am learning new things as well.
+I have knowledge in Html/Css/JavaScript/Tailwind CSS/React/NextJs in front-end, and also in Nodejs/Express/Java/Springboot/SQL in back-end , but I am learning new things as well.
 
 
 #**Some of My projects:**
@@ -20,8 +20,7 @@ I have knowledge in Html/Css/JavaScript/Tailwind CSS/React in front-end, and als
 
 
 it is a web site were you can see the movies billboard and also create a favourites movies list
-it was made in html/css/javascript consuming a public API called themoviedb
-this is a single page application SPA, we use location.hash to create the ilussion of changing pages, we also use localStorage to save the favourites movies list
+it was made in html/css/javascript (vanilla Javascript) consuming a public API called themoviedb.
 
 
 -[whatch the site](https://gilbertardila.github.io/movieAPI/#home)
@@ -29,7 +28,7 @@ this is a single page application SPA, we use location.hash to create the ilussi
 **Movies+ V2.0**
 
 
-Developed in Next.Js now you can use the new version of thi app
+Developed in Next.Js now you can use the new version of this app
 
 
 -[whatch the site](http://movies-v2-0.vercel.app/)
@@ -38,20 +37,16 @@ Developed in Next.Js now you can use the new version of thi app
 **M3U2TrelloApp-GilbertArdila (Trello clon)**
 
 This application is a Trello board clone where we can create taskes, move it from board to board (to-do, doing, done), it will show the creation date and finishing date, Title, User and Estimated time and off corsse we can delete it.
-
-
-We use a json-server as a fakeAPI, consume moment, axios and sortablejs API´s
-
 -[whatch the video](https://youtu.be/fJKKSUHx9CM)
 
 
 
 **Alura Hotel**
 
-this web site allows you to create a registration as a customer and once you are register you can make a checkin choosing initial and final day, room kind, payment way and kids and adults guests quantity. the reservation price depends on this variables. According to dates the sistem will calculate hight or low season price, also every room kind have a diferent cost, kids guest have 40% off than adults, and you can choose between cash, debt card or credit card for payment way.
+this web site allows you to create a registration as a customer and once you are register you can make a checkin choosing initial and final day, room kind, payment way and kids and adults guests quantity. the reservation price depends on this variables. According to the dates the sistem will calculate hight or low season price, also every room kind have a diferent cost, kids guest have 40% off than adults, and you can choose between cash, debt card or credit card for payment way.
 
 
-this is an SPA made in html,css and vanilla javascript, with no frameworks nor libraries, back end is made in java-springboot and mysql data base
+this app was developed with Java/Java springboot on the backend side
 
 
 -[whatch the video](https://youtu.be/ngIZJMJpm40)
@@ -96,9 +91,15 @@ this projects are made only in html and css to create the main structure of a pa
 
 -Html5  
 -Css3  
+-Tailwindcss
 -JavaScript  
+-React
+-Next.Js
+-NodeJs
+-Express
 -Java  
 -SpringBoot  
+-SQL
 -MySQL  
 -Git  
 -GitHub  
