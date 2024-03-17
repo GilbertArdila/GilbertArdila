@@ -13,9 +13,6 @@ I have knowledge in Html/Css/JavaScript/Tailwind CSS/React/NextJs in front-end, 
 #**Some of My projects:**
 
 
-**Proyects that have back and front are made under the concept of MVC (model,view,controller)**
-
-
 **Movies+**
 
 
