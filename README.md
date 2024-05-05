@@ -1,7 +1,7 @@
 **Hi there, my name is Gilbert Ardila**
 
 
-I am a Javascript fullstack developer and I lo e what I do!!  
+I am a Javascript fullstack developer and I love what I do!!  
 
 
 I live in Bogotá-Colombia, I have been working  in many personal proyects for professional growth and I invite you to glance at my GitHub account  
